@@ -48,8 +48,9 @@
 ### 运行步骤
 1. 确保所有文件（`game.py`, `maze.py`, `astar.py`, `dijkstra.py`）在同一目录下。
 2. 在终端运行：
-  
+  ```python
   python game.py
+  ```
 
 3. 使用鼠标点击界面上的按钮进行操作。
 
